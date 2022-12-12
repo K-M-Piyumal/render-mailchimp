@@ -1,2 +1,2 @@
 # render-mailchimp
-This is a render app
+This is a mail Signup app.
